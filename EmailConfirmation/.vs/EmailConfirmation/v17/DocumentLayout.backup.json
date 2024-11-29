@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmailConfirmation\\EmailConfirmation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FC5B5-CA30-485A-90D6-B3FF54376EEC}|EmailConfirmation\\EmailConfirmation.csproj|d:\\emailconfirmation\\emailconfirmation\\emailconfirmation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39FC5B5-CA30-485A-90D6-B3FF54376EEC}|EmailConfirmation\\EmailConfirmation.csproj|solutionrelative:emailconfirmation\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39FC5B5-CA30-485A-90D6-B3FF54376EEC}|EmailConfirmation\\EmailConfirmation.csproj|d:\\emailconfirmation\\emailconfirmation\\emailconfirmation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A39FC5B5-CA30-485A-90D6-B3FF54376EEC}|EmailConfirmation\\EmailConfirmation.csproj|solutionrelative:emailconfirmation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\EmailConfirmation\\EmailConfirmation\\EmailConfirmation\\MainPage.xaml",
+              "RelativeDocumentMoniker": "EmailConfirmation\\MainPage.xaml",
+              "ToolTip": "D:\\EmailConfirmation\\EmailConfirmation\\EmailConfirmation\\MainPage.xaml",
+              "RelativeToolTip": "EmailConfirmation\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-29T17:34:40.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\EmailConfirmation\\EmailConfirmation\\EmailConfirmation\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "EmailConfirmation\\MainPage.xaml.cs",
+              "ToolTip": "D:\\EmailConfirmation\\EmailConfirmation\\EmailConfirmation\\MainPage.xaml.cs",
+              "RelativeToolTip": "EmailConfirmation\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:28:26.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
